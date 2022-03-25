@@ -6,3 +6,7 @@
 
 ## 系统
 已测试：树莓派
+其他linux系统也可用
+
+## 保存目录
+/home/pi/Music/Download
